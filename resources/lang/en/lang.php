@@ -1,0 +1,48 @@
+<?php
+//EN
+return [
+    'text_hello' => 'Hello',
+    'text_login' => 'Login',
+    'text_success' => 'Success',
+    'text_list' => 'list of students',
+    'text_regesi' => 'Registration',
+    'text_register' => 'register',
+    'name' => 'name',
+    'phone'=>'phone',
+    'brd' => 'birthday',
+    'city'=>'city',
+    'choice' => 'Choose a city',
+    'password'=>'Password',
+    'Confirm_Password'=>'Confirm Password',
+    'save'=>'save',
+    'Forgot_Password'=>'Forgot Password',
+    'reserved'=> "All rights reserved.",
+    'about'=>'About',
+    'about_text'=> 'Our forum site is an online platform dedicated to students looking to share ideas, advice and experiences related to their university life.',
+    'forum_text'=> 'A blog about students and their adventures.',
+    'Popular_Items'=> 'Popular Items',
+    'astuces' => '10 tips for passing final exams',
+    'temps' => 'How to manage your time effectively as a student',
+    'examen'=> 'How to deal with stress during exams',
+    'doc_list' => 'List of documents',
+    'titre'=>'Title',
+    'mes'=>"My",
+    'add'=>'Add',
+    'art_msg' => 'No article of article available',
+    'form'=> 'form',
+    'contenu'=> 'Content',
+
+    'publi'=> 'published by',
+    'view'=>'view',
+    'modifier'=> 'edit',
+    "delete"=>'delete',
+    "update"=>'update',
+    'return'=>"return",
+    'click'=> 'Click here to visit the forum',
+    'send'=>'send',
+    'singup'=>'SingUp',
+    'Newsletter'=> 'Newsletter',
+    'auteur'=>'Author'
+    
+
+];
