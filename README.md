@@ -8,7 +8,7 @@ npm install
 
 .env
 
-## creation de tables dans la base de donnee
+## creation de tables dans la base de donnees
 
 php artisan migrate
 
